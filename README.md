@@ -1,3 +1,3 @@
 # blog
-쓰고 싶은 사람 쓰쇼
-next 14
+쓰고 싶은 사람 쓰세요
+Next.js Version 14
