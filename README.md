@@ -1,3 +1,3 @@
-# Blog
-쓰고 싶은 사람 쓰세요
-Next.js Version 14
+# Next.js 15 RC
+
+## 블로그 제작 겸 Next.js 15 버전 둘러보기
